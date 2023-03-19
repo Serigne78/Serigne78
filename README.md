@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 Je suis actuellement en Licence MIASHS
 - 📫 How to reach me: Abo78neauphle@gmail.com
 - 😄 Curieux, travailleur, passioné, 
-- ⚡ Fun fact: J'ai fait les detections pour rentrer à l'inf clairefontaine 
+- ⚡ Fun fact: J'ai fait les detections pour rentrer à l'inf clairefontaine ###
 -->
