@@ -1,5 +1,5 @@
 [![MasterHead](https://media.tenor.com/w5DkEBpjYpoAAAAC/giannis-block.gif)]
-[![MasterHead](https://media.tenor.com/Arjwd5rlT6QAAAAC/lillard-basketball.gif)]
+
 <h1 align="center">Hi 👋, I'm Serigne</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/SxJQcg2-UGkAAAAC/working-from.gif">
