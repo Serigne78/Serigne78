@@ -9,9 +9,9 @@
 
 
 
-- 🌱 i'm currently studying computer science at **UVSQ Paris-Saclay**
+- 🌱 i'm currently studying computer science at **Esiea School**
 
-- 💬 Ask me about **Python , Sport**
+- 💬 Ask me about **Coding , Sport**
 
 - 📫 How to reach me **Abo78neauphle@gmail.com**
 
