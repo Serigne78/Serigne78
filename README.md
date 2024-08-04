@@ -1,5 +1,7 @@
 [![MasterHead](https://media.tenor.com/w5DkEBpjYpoAAAAC/giannis-block.gif)]
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Serigne78&label=Profile%20views&color=0e75b6&style=flat" alt="serigne" /> </p>
+[![MasterHead](https://media.tenor.com/w5DkEBpjYpoAAAAC/giannis-block.gif)]
+
+
 
 <h1 align="center">Hi 👋, I'm Serigne</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
