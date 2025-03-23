@@ -38,3 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Serigne78&show_icons=true&locale=en&theme=tokyonight" alt="Serigne78" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Serigne78&&theme=tokyonight" alt="Serigne78" /></p>
+
+Suite à votre message, je vous confirme qu’un changement de planning est intervenu de mon côté. Initialement prévu autour de la mi-mai, un voyage à l’étranger organisé par mon école a été avancé au 4 mai. Je ne serai donc pas en mesure d’être présent le 6 mai, contrairement à ce que j’avais indiqué dans le formulaire.
