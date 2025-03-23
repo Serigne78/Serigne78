@@ -39,4 +39,71 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Serigne78&&theme=tokyonight" alt="Serigne78" /></p>
 
-Suite à votre message, je vous confirme qu’un changement de planning est intervenu de mon côté. Initialement prévu autour de la mi-mai, un voyage à l’étranger organisé par mon école a été avancé au 4 mai. Je ne serai donc pas en mesure d’être présent le 6 mai, contrairement à ce que j’avais indiqué dans le formulaire.
+Slide 1 : Titre
+
+Présentation de mon alternance – Cellule IT (CIT) chez CAPS
+Ton prénom – École – Date – Nom des tuteurs
+
+⸻
+
+Slide 2 : Le Groupe Crédit Agricole
+	•	Crédit Agricole :
+	•	Un des plus grands groupes bancaires en Europe
+	•	Activités : banque de détail, assurance, gestion d’actifs, financement, services spécialisés
+	•	Présent dans plus de 40 pays
+	•	Engagé dans la transformation numérique, l’innovation et les services clients
+
+⸻
+
+Slide 3 : CAPS – Crédit Agricole Payment Services
+	•	Filiale du groupe Crédit Agricole spécialisée dans les paiements
+	•	Missions :
+	•	Gérer l’ensemble des flux de paiements (cartes, virements, prélèvements, etc.)
+	•	Assurer la sécurité, la conformité et la performance des services de paiement
+	•	Acteur majeur sur le marché français et européen
+
+⸻
+
+Slide 4 : Le service CIT – Cellule IT
+	•	Cellule transverse au sein de CAPS
+	•	Missions :
+	•	Support DevOps et Cloud pour toutes les applications IT
+	•	Accompagnement des équipes sur :
+	•	Les bonnes pratiques DevOps
+	•	Les problèmes rencontrés dans les pipelines CICG
+	•	L’usage de l’IA générative (IAgen), comme GitHub Copilot
+	•	Objectif : acculturer les équipes et fiabiliser les chaînes de livraison
+
+⸻
+
+Slide 5 : Mes missions
+	•	Mission principale : Application de facturation
+	•	Visualisation des coûts d’infrastructure (Kafka, Kube, Artifactory…)
+	•	Prévision budgétaire en fonction des besoins d’une application
+	•	Outil d’aide à la décision pour l’équipe de facturation
+	•	Mission secondaire : Knowledge Base
+	•	Base de connaissance technique collaborative
+	•	Guides d’installation, résolution de problèmes, documentation RH, etc.
+
+⸻
+
+Slide 6 : Environnement technique
+	•	Frontend : Angular
+	•	Infra & Monitoring : Kubernetes, Kafka, Prometheus, Grafana
+	•	CI/CD : GitHub, GitHub Actions
+	•	Méthodo : Kanban, accompagnement régulier (bilat’ hebdo / manager mensuel)
+
+⸻
+
+Slide 7 : Rapport d’étonnement
+
+✅ Points positifs :
+	•	Très bon accompagnement
+	•	Rythme clair, suivi régulier
+	•	Bonne autonomie et confiance
+	•	Stack technique intéressante
+
+⚠️ Surprises / pistes d’amélioration :
+	•	Beaucoup de contexte métier à assimiler
+	•	Complexité technique sur certains sujets (cloud, coût, pipelines)
+	•	Quelques dépendances transverses qui ralentissent parfois
